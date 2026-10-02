@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.app¡Bienvenido!&fontSize=70&animation=fadeIn" alt="Banner de Bienvenida" />
+  <img src="InShot_20261002_132218371.jpg" alt="Banner de Bienvenida" />
 </p>
 
 # ¡Hola! Soy Adán Santiago 👋

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dix.lat/me/0vik_20261002-c91x-hgxp-ee6e.jpg" alt="Banner de Bienvenida" />
+  <img src="https://cdn.dix.lat/me/0vik_20261002-c91x-hgxp-ee6e.jpg" alt="sobre mi" />
 </p>
 
 # ¡Hola! Soy Adán Santiago 👋
@@ -21,7 +21,7 @@
 
 <p align="left">
   <!-- JavaScript -->
-  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/que-es-javascript-descubre-sus-5-principales-usos.jpg" alt="JavaScript" />
   <!-- Node.js -->
   <img src="https://shields.io" alt="Node.js" />
   <!-- Git -->

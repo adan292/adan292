@@ -19,6 +19,9 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
+![WhatsApp](https://shields.io)
+
+
 <p align="left">
   <!-- JavaScript -->
   <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/que-es-javascript-descubre-sus-5-principales-usos.jpg" alt="JavaScript" />

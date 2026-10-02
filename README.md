@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="InShot_20261002_132218371.jpg" alt="Banner de Bienvenida" />
+  <img src="https://www.image2url.com/es/image-preview?draftId=18ac4983-2dfa-40a1-a37c-4a0d643593b9&from=homepage_upload&n=InShot_20261002_132218371.jpg&t=image%2Fjpeg&s=281369" alt="Banner de Bienvenida" />
 </p>
 
 # ¡Hola! Soy Adán Santiago 👋

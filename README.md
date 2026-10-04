@@ -22,10 +22,7 @@
 <p align="left">
   <!-- JavaScript -->
   <img src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/que-es-javascript-descubre-sus-5-principales-usos.jpg" alt="JavaScript" />
-  <!-- Node.js -->
-  <img src="<img src="https://shields.io" alt="Node.js Badge" />
-    " alt="Node.js" />
-  <!-- Git -->
+  
   <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="Git" />
   <!-- WhatsApp API / Bots conceptual -->
   <img src="https://shields.io" alt="WhatsApp" />

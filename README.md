@@ -28,7 +28,6 @@ Actualmente estoy enfocado en:
 
 La idea es simple: que cualquiera pueda tener su propio bot, sin saber programar, solo conectando la API.
 
-```js
 // Así va a funcionar en 2027 🐰
 // API Bunny - Próximamente...
 // ¡Espérala en 2027!
